@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @jgaonkargst
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi I am Jayendra Gaonkar
 
-<!---
-jgaonkargst/jgaonkargst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am working as a web designer front-end developer with UI/UX design skills (front-end designer). I´m based in Goa India.
+
+Since 2013 I've been living and breathing web development and creating modern and user friendly interfaces for internet. I've had the chance to immerse myself in many different works and projects like wordpress, helping to make this world a little better and easy through design & code.
+
+What I'm focusing on?
+
+As of now I am improving my React skills: NextJS, Gatsby JS and React Native. if you´re looking for a Gatsby starter, take a look at this Gatsby multi-language starter with CMS.
